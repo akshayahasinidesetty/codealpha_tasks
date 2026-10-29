@@ -1,17 +1,22 @@
 CodeAlpha Python Programming Internship
+
 Overview
+
 This repository contains four beginner-friendly Python projects created for the CodeAlpha Python Programming Internship. The projects practise Python fundamentals, problem-solving, user input, and file handling.
 Projects
 1. Hangman Game — Guess a randomly selected word with up to six incorrect guesses.
 2. Stock Portfolio Tracker — Calculate the total value of selected stocks using predefined sample prices. Optionally export the results to CSV.
 3. Task Automation — Extract unique email addresses from input.txt and save them to emails_found.txt.
 4. Basic Chatbot — Chat with a simple rule-based bot that responds to predefined messages.
+
 Technologies
+
 - Python 3
 - Built-in modules: random, csv, re, pathlib, and datetime
 - Git and GitHub
 No third-party packages are required.
 Project Structure
+
 CodeAlpha_Python_Internship/
 ├── Hangman_Game/
 │   └── hangman.py
@@ -24,6 +29,7 @@ CodeAlpha_Python_Internship/
 │   └── chatbot.py
 ├── README.md
 └── SUBMISSION_CHECKLIST.md
+
 How to Run
 Make sure Python is installed. Check the version:
 python --version
